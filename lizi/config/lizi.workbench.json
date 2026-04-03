@@ -1,0 +1,6 @@
+{
+  "_comment": "Lizi personal workbench config placeholder. Later this file should store default startup choices for the outer shell only.",
+  "profile": "default",
+  "providers": [],
+  "notes": "First version placeholder. No active startup behavior yet."
+}
