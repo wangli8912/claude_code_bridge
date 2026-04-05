@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Documentation
+
+- **Windows Native Multi-AI Progress**: Recorded the current Windows-native setup status for WezTerm, native `ccb`, Codex, Gemini, and OpenCode, including the current split-pane collaboration state and Claude availability constraint
+
 ## v5.2.8 (2026-03-07)
 
 ### 📝 Documentation
